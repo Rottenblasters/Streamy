@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a good stream",
+      "id": 1
+    },
+    {
+      "title": "YouTube Clone from scratch",
+      "description": "Watch me build a YouTube clone with Firebase and React",
+      "userId": "115994752506740330803",
+      "id": 3
+    },
+    {
+      "title": "NodeJs 12hrs Bootcamp",
+      "description": "Full course on NodeJs for Beginners",
+      "userId": "115723199175500561661",
+      "id": 4
+    }
+  ]
+}
