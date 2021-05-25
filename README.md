@@ -3,7 +3,7 @@
 
 ## To run the app on your local computer
 
-**Make sure you have install NodeJs on you computer**
+**Make sure you have installed NodeJs on your computer**
 
 - Clone the repository in your local computer
 - In the terminal run --> npm uninstall -g create-react-app
