@@ -14,3 +14,6 @@
 - Now in each of the 3 terminals run --> npm start
 - Your app should now start on **localhost:300**
 - To stream a video you will have to download the OBS software for streaming videos
+
+
+### To get some glimpses of the app go into the images folder of the repository to view images of the app
