@@ -1,7 +1,7 @@
 # Streamy
 
 
-## To run the app on you local computer
+## To run the app on your local computer
 
 **Make sure you have install NodeJs on you computer**
 
